@@ -1,19 +1,6 @@
 # This folder contains code related to CRUD operations
 
 
-
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
-  
-  body {
-  	font-family: 'Poppins', sans-serif;
-  }
-  
-</style>
-
-<body>
-
-
 ### Two main classes are being used while developing CRUD features
 
 1. `SessionFactory (org.hibernate.SessionFactory)`
@@ -37,7 +24,3 @@
 4. `ReadStudent` (Retrieving a student)
 5. `UpdateStudent`
 6. `DeleteStudent`
-
-
-
-</body>
