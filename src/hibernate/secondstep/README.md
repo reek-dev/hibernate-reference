@@ -9,4 +9,4 @@
     1. Map Java classes to DB tables using the `@Entity`, `@Table` annotations.<br>
     2. Map Java class fields to DB columns using the `@Id` and `@Column` annotations.
 <br><br>
-- Develop Java code to perform database operations.
+- Develop Java code to perform database operations. (this is explained in the `src/hibernate/thirdstep`)
