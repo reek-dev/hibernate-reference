@@ -3,7 +3,8 @@ package hibernate.thirdstep;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
-import hibernate.secondstep.Student;
+
+import hibernate.entity.Student;
 
 public class BasicsOfCreatingSessions {
 
