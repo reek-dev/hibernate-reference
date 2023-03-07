@@ -1,4 +1,7 @@
 # ✅ A zero-nonsense guide to setup a bare minimum hibernate project (Without Maven)
+
+![](https://hibernate.org/images/hibernate-logo.svg)
+
 ### a guide to setup Hibernate in Eclipse EE IDE with MySQL without using Maven on a Windows system.
 
 - Create a basic Java project in Eclipse with this structure

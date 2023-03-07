@@ -12,3 +12,10 @@
 	- Its main purpose is to save/retrieve objects
 	- They are short-lived objects
 	- They are created using SessionFactory (org.hibernate.SessionFactory)
+	
+	
+	
+## Study the following classes in this order
+
+1. `BasicsOfCreatingSessions`
+2. `CreateStudent`

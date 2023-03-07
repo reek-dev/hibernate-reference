@@ -1,6 +1,6 @@
-# This folder contains the basics of developing using Hibernate
+# This folder contains the basics of annotating using Hibernate (no CRUD here)
 
-### Hibernate development process
+### Step-by-step process
 
 
 - Add the Hibernate configuration file (`hibernate.cfg.xml`) in your `src` folder. This file is known as a DTD. Its standard is available in `https://hibernate.org/dtd/` <br><br>
