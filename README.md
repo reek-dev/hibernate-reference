@@ -10,18 +10,14 @@
 
 - Now go to Hibernate website and navigate to the releases page.
 `https://hibernate.org/orm/releases/`
-
-
-- Select any series (e.g. - 5.6)
-
-
-- Choose any version (e.g. - 5.6.14)
+	- Select any series (e.g. - 5.6)<br>
+	- Choose any version (e.g. - 5.6.14)
 
 
 ![](https://i.imgur.com/1mO5hDw.png)
 
 
-- Click on the download button.
+- Click on the `Download` button.
 
 
 - A zip file will be downloaded; extract it.
