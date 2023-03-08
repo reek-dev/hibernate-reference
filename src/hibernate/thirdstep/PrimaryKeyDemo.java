@@ -41,7 +41,7 @@ public class PrimaryKeyDemo {
 
 			// commit the current transaction
 			session.getTransaction().commit();
-			System.out.println("create successful.");
+			System.out.println("\n\nDONE.");
 
 		} finally {
 			factory.close();

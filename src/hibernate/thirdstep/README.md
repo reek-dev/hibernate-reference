@@ -22,5 +22,7 @@
 2. `CreateStudent` (Adding a student)
 3. `PrimaryKeyDemo` (Adding multiple students)
 4. `ReadStudent` (Retrieving a student)
-5. `UpdateStudent`
-6. `DeleteStudent`
+5. `QueryStudentsBasedOnPredictes`
+6. `UpdateStudent`
+7. `DeleteStudent`
+

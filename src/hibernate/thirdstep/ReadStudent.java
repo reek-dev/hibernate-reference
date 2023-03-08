@@ -15,7 +15,10 @@ public class ReadStudent {
 	public static void main(String[] args) {
 
 		// create the SessionFactory object
-		SessionFactory factory = new Configuration().configure("hibernate.cfg.xml").addAnnotatedClass(Student.class)
+		SessionFactory factory = 
+				new Configuration()
+				.configure("hibernate.cfg.xml")
+				.addAnnotatedClass(Student.class)
 				.buildSessionFactory();
 
 		// create the Session
@@ -27,6 +30,7 @@ public class ReadStudent {
 
 			// create a new student
 			Student student1 = new Student("Rahul", "Singh", "rahulg021@gmail.com");
+			
 
 			// start transaction no. 1
 			session.beginTransaction();
@@ -51,7 +55,7 @@ public class ReadStudent {
 
 			// commit the current transaction
 			session.getTransaction().commit();
-			System.out.println("retrieve successful.");
+			System.out.println("\n\nDONE.");
 
 		} finally {
 			factory.close();
