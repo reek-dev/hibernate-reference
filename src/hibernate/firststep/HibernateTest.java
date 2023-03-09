@@ -7,7 +7,7 @@ import javax.management.loading.PrivateClassLoader;
 
 public class HibernateTest {
 
-	private static String DBURL = "jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false&serverTimezone=UTC";
+	private static String DBURL = "jdbc:mysql://localhost:3306/hb-01-one-to-one-uni?useSSL=false&serverTimezone=UTC";
 	private static String DBUSER = "hbstudent";
 	private static String DBPWD = "hbstudent";
 
